@@ -1,0 +1,27 @@
+Accuracy ---> 21/500
+Accuracy score ---> 4.2
+Top words of the location wise: 
+Boston,_MA ---> ['boston', 'ma', 'massachusetts', 'report', 'fenway']
+
+San_Diego,_CA ---> ['sandiego', 'diego', 'san', 'ca', 'lajolla']
+
+Houston,_TX ---> ['houston', 'tx', 'texas', 'job', 'hiring']
+
+Philadelphia,_PA ---> ['philadelphia', 'pa', 'philly', 'phillies', 'citizens']
+
+Washington,_DC ---> ['dc', 'washington', 'washingtondc', 'columbia', 'district']
+
+Orlando,_FL ---> ['orlpol', 'orlando', 'opd', 'fl', 'ave']
+
+Atlanta,_GA ---> ['atlanta', 'ga', 'georgia', 'atl', 'duranduran']
+
+Toronto,_Ontario ---> ['toronto', 'ontario', 'trucks', 'canada', 'centre']
+
+San_Francisco,_CA ---> ['sanfrancisco', 'francisco', 'san', 'ca', 'request']
+
+Los_Angeles,_CA ---> ['los', 'angeles', 'losangeles', 'ca', 'hollywood']
+
+Chicago,_IL ---> ['chicago', 'il', 'illinois', 'job', 'hiring']
+
+Manhattan,_NY ---> ['york', 'new', 'ny', 'nyc', 'newyork']
+
