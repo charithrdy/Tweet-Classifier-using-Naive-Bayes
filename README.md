@@ -1,4 +1,4 @@
-# a2 - Tweet Classification
+# Tweet Classification
 ## Naive Bayes with TF-IDF
 Explanation:
 
